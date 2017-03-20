@@ -1,0 +1,75 @@
+#text {
+  border: 2px solid black;
+  width: 700px;
+  height: 700px;
+  margin-right: 2%;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  background-color: lightskyblue;
+}
+h1{
+  font-size: 50px;
+}
+#girls{
+  width: 75%;
+  margin-left: 12%;
+  margin-right: 12%;
+  margin-top: 7%;
+
+}
+#books{
+  background-image:url("https://s-media-cache-ak0.pinimg.com/736x/4c/d2/cc/4cd2cc281debad9cd150939844e108d6.jpg");
+}
+#logo{
+  width: 90px;
+  height: 90px;
+}
+.align{
+  display: inline-block;
+}
+
+p{
+  font-size: 30px;
+}
+
+button{
+  font-size: 20px;
+  font-family: 'Indie Flower', cursive;
+  border-color: black;
+  border-radius: 100px;
+
+
+}
+#farts{
+  background-image: url("home.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  left: 20px;
+  width:50px;
+  height:50px;
+  position: fixed;
+}
+
+body{
+  background-image: url("sun.jpg");
+  background-repeat: 1;
+  background-size: 147.5%;
+  text-align: center;
+  margin-left: 25%;
+
+
+}
+
+
+
+.teddy{
+  border: 5px dotted black;
+  width: 700px;
+  height: 350px;
+  text-align: center;
+  margin-left: 2%;
+  background-color: lightskyblue;
+  font-family: 'Indie Flower', cursive;
+  margin-top: 20px;
+}

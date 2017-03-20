@@ -1,0 +1,57 @@
+body {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  background-color: skyblue;
+}
+#mission{
+  border: dashed 3px;
+  background-color: springgreen;
+}
+
+.carousel {
+  height: 250px !important;
+  margin-top: 5%;
+}
+
+h2 {
+  font-size: 50px !important;
+}
+
+p {
+  font-size: 30px !important;
+}
+
+.signup{
+  background-color: springgreen;
+  font-size: 30px;
+  border: black solid 3px;
+  border-radius: 20px;
+  padding: 20px;
+  color:black;
+}
+#text{
+  float: center;
+}
+
+.logo{
+  width: 95px;
+  height: 105px;
+  padding-top: 10px;
+}
+
+.align{
+  display: inline-block;
+}
+
+h2{
+  font-size: 30px;
+}
+
+
+p{
+  font-size: 30px;
+}
+h1{
+  font-size: 45px;
+
+}
